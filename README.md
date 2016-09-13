@@ -1,12 +1,19 @@
-# 
+# corespring-pie-es6-demo
 
+An es6 based html component. It is a custom element that renders a react component inside itself.
 
-```
+## Install
+
+```shell
 npm install
-#boot a server - go to demo.html
 ```
 
+## Demo 
 
+```shell
+webpack
+python -m SimpleHTTPServer
+go to: http://localhost:8000
 ```
 
 # Pie sample

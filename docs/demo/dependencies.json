@@ -1,0 +1,5 @@
+{
+  "dependencies" : {
+    "corespring-pie-es6-demo" : "../.."
+  }
+}

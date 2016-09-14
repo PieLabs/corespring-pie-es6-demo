@@ -1,0 +1,14 @@
+{
+  "components" : [
+    {
+      "id" : "1",
+      "component" : {
+        "name" : "corespring-pie-es6-demo",
+        "version" : "0.0.1"
+      },
+      "model" : {
+        "label" : "i am a model"
+      }
+    }
+  ]
+}

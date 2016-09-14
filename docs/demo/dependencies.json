@@ -1,5 +1,7 @@
 {
   "dependencies" : {
-    "corespring-pie-es6-demo" : "../.."
+    "corespring-pie-es6-demo" : "../..",
+    "corespring-multiple-choice-react" : "../../corespring-multiple-choice-react"
+
   }
 }
